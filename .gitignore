@@ -181,3 +181,8 @@ __pycache__/
 *.log
 .env
 venv/
+
+# dotenv
+.env
+*.env
+.env*
